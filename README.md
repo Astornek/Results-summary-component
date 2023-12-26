@@ -2,4 +2,4 @@
 
 ## Welcome! 👋
 
-Solution for the "Blog preview card" project from Frontend Mentor.
+Solution for the "Results summary component" project from Frontend Mentor.
